@@ -13,7 +13,7 @@ Solutions for Level 1 introductory practical programming exercises in C.
 | `program02.c` | Write a program to read two numbers and print their sum. |
 | `program03.c` | Write a program to read two numbers and print their sum, difference, product and quotient. |
 | `program04.c` | Write a program to read the radius of a circle and print its area and circumference. |
-| `program.c` | Write a program to read the length and breadth of a rectangle and print its area and perimeter. |
+| `program05.c` | Write a program to read the length and breadth of a rectangle and print its area and perimeter. |
 | `program06.c` | Write a program to swap two numbers using a third variable. |
 | `program07.c` | Write a program to swap two numbers without using a third variable. |
 | `program08.c` | Write a program to read a temperature in Celsius and convert it to Fahrenheit. |
