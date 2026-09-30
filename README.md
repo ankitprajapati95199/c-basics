@@ -27,5 +27,5 @@ Solutions for Level 1 introductory practical programming exercises in C.
 Compile any source file using the GCC compiler in your terminal:
 
 ```bash
-gcc problem1.c -o problem1
-./problem1
+gcc program01.c -o program01
+./program01
