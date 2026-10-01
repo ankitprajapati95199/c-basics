@@ -18,7 +18,7 @@ Solutions for Level 1 introductory practical programming exercises in C.
 | `program07.c` | Write a program to swap two numbers without using a third variable. |
 | `program08.c` | Write a program to read a temperature in Celsius and convert it to Fahrenheit. |
 | `program09.c` | Write a program to read the marks of 5 subjects and print the total and average. |
-| `program10` | Write a program to read seconds and convert them into hours, minutes and seconds. |
+| `program10.c` | Write a program to read seconds and convert them into hours, minutes and seconds. |
 
 ---
 
