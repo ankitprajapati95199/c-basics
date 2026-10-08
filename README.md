@@ -103,7 +103,7 @@ gcc program01.c -o program01
 Level 1: Basics (you are here)  ➜  Level 2: Conditions  ➜  Level 3: Loops  ➜  ...
 ```
 
-➡️ Next up: [conditions-in-c](https://github.com/<ankitprajapati95199>/conditions-in-c)
+➡️ Next up: [conditions-in-c](https://github.com/ankitprajapati95199/conditions-in-c)
 
 ---
 
